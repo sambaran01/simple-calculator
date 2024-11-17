@@ -16,4 +16,4 @@ This is a basic calculator program written in Python that can perform simple ari
 3. Navigate to the directory where the Python file is located.
 4. Run the program by executing the following command:
    ```bash
-   python calculator.py
+   python simple-calculator.py
